@@ -8,19 +8,19 @@
 ## 🖼️ Screenshots
 
 ### 🔐 Login
-![Login](screenshots/login.png)
+![Login](D9_Lab/screenshots/login.png)
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](D9_Lab/screenshots/dashboard.png)
 
 ### ➕ Add Course
-![Add Course](screenshots/addCourse.png)
+![Add Course](D9_Lab/screenshots/addCourse.png)
 
 ### ✏️ Update Course
-![Update Course](screenshots/updatecourse.png)
+![Update Course](D9_Lab/screenshots/updatecourse.png)
 
 ### 👤 Profile
-![Profile](screenshots/Profile.png)
+![Profile](D9_Lab/screenshots/Profile.png)
 
 ---
 
@@ -67,7 +67,7 @@ D9_Lab/
 │
 ├── 📁 Migrations/                    # EF Core auto-generated migrations
 │
-├── 📁 screenshots/                   # App screenshots for README
+├── 📁 screenshots/
 │   ├── login.png
 │   ├── dashboard.png
 │   ├── addCourse.png
@@ -96,8 +96,8 @@ D9_Lab/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/D9_Lab.git
-cd D9_Lab
+git clone https://github.com/AhmedDabish/Courses-Management-System.git
+cd Courses-Management-System
 ```
 
 **2. Open the solution in Visual Studio**
